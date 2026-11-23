@@ -1,11 +1,9 @@
 # Lab 3: Monitoring, Logging & DevSecOps
 
-**Student Name:** Akash  
-**Roll No:** 2301730184  
-**Email:** ad1646414@gmail.com  
-**Course Activity:** Lab 3: Monitoring, Logging & DevSecOps  
-**GitHub Repository:** https://github.com/Akash2347/Devops-Lab-3.git  
-
+**Student Name:** Sahil  
+**Roll No:** 2301730193 
+ **Course Activity:** Lab 3: Monitoring, Logging & DevSecOps  
+ 
 This repository is a reproducible, local lab implementation. It deploys a small Flask application with a feature flag, Prometheus metrics, Grafana, Elasticsearch, Logstash, Kibana, and Filebeat. Ansible automates host preparation and application deployment; Terraform demonstrates horizontally scaled application containers; CI verifies dependencies and scans the repository.
 
 ## Architecture
